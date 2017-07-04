@@ -1,0 +1,19 @@
+{
+  "name": "iot-stream",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://vildantursic@bitbucket.org/vildantursic/iot-stream.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/vildantursic/iot-stream#readme",
+  "dependencies": {
+    "deepstream.io": "^2.3.4"
+  }
+}
